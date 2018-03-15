@@ -213,7 +213,6 @@ inline int modDiv(int a, int d) {
 void inverseKey() {
     // this part is core code and related to a course project.
     // so it should not be public.
-    // if interested and NOT for the project, one can email me.
 }
 
 // Decrypt function
